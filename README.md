@@ -2,9 +2,11 @@
 
 A Ruby on Rails inventory management application for tracking products and their movements.
 
-## Overview
+## Overview 
 
 StoreManager is a web application designed to help businesses manage their inventory by tracking products and recording product movements (additions and removals).
+
+![Overview](overview.png)
 
 ## Technology Stack
 
